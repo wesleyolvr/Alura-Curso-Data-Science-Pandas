@@ -7,4 +7,4 @@ Nesse curso foi usado [Google Colab](https://colab.research.google.com/) para es
 
 ## Uso 
 
-Importar o arquivo "Python_para_Data_Scrience_Pandas.ipynb" para o [Google Colab](https://colab.research.google.com/)
+Importar o arquivo "Python_para_Data_Science_Pandas.ipynb" para o [Google Colab](https://colab.research.google.com/)
